@@ -86,18 +86,18 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 #### 🎯 Market vs. Sales Targets <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/Market%20vs%20Target%20Performance%20Report.pdf">Dataset</a>
 - Some markets **exceeded** goals while others **underperformed**
 
-#### 📆 Yearly P&L Report 
+#### 📆 Yearly P&L Report <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf">Dataset</a>
 - Net sales increased by **204.5%** over 3 years
 - Strong gross margins maintained with efficient cost controls
 
-#### 📊 Quarterly P&L Comparison 
+#### 📊 Quarterly P&L Comparison <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf">Dataset</a>
 - 2021 saw significant growth with stable profit margins
 
-#### 🌐 Market-Specific P&L Report 
+#### 🌐 Market-Specific P&L Report <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/P%26%20L%20by%20Markets.pdf">Dataset</a>
 - **High Margin Markets**: Japan, New Zealand  
 - **Lower Margin Market**: Germany
 
-#### 📍 Quarterly Gross Margin % by Location
+#### 📍 Quarterly Gross Margin % by Location <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/GM%25%20by%20Quarters%20In%20Sub-zone.pdf">Dataset</a>
 - Variations in profit margins by region, aiding in performance assessments and strategic decisions
 
 ---
