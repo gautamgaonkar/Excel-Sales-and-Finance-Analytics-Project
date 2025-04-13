@@ -21,7 +21,7 @@ Products are distributed through intermediaries like **Croma**, **Best Buy**, an
 
 ## ❗ Problem Statement
 
-Develop an interactive Business Intelligence dashboard — **Sales and Finance Analytics Report** — to uncover actionable insights and support strategic planning at Atliq Hardware.
+To develop an interactive Business Intelligence dashboard — **Sales and Finance Analytics Report** — to uncover actionable insights and support strategic planning at Atliq Hardware.
 
 ---
 
