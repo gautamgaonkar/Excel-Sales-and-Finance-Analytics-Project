@@ -111,11 +111,7 @@ Develop an interactive Business Intelligence dashboard — **Sales and Finance A
 
 ## 📎 Technologies Used
 
-- **Power BI**
-- **SQL**
 - **Excel**
-- **Python (for preprocessing/ETL)**
-
 ---
 
 ## 📦 Deliverables
