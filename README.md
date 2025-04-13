@@ -37,7 +37,7 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 
 ### 📊 Key Sales Reports & Insights
 
-#### 🔝 Top 10 Products with Sales Increase
+#### 🔝 Top 10 Products with Sales Increase <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/Top%2010%20Products.pdf">Dataset</a>
 - Top performers include:  
   - `AQ Electron 4 3600 Desktop Processor`  
 
