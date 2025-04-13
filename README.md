@@ -98,25 +98,25 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 
 ## 📌 Summary of Insights
 
-➖**Customer Sales Performance:** Notable growth in sales, especially in 2021.
+➖ **Customer Sales Performance:** Notable growth in sales, especially in 2021.
 
-➖**Top 10 Products:** Continued strong performance of key products from 2020 to 2021.
+➖ **Top 10 Products:** Continued strong performance of key products from 2020 to 2021.
 
-➖**Market Performance vs. Target:** Insights into market performance relative to sales goals.
+➖ **Market Performance vs. Target:** Insights into market performance relative to sales goals.
 
-➖**New Products in 2021:** Successful introduction of new products with strong sales.
+➖ **New Products in 2021:** Successful introduction of new products with strong sales.
 
-➖**Top 5 Countries in 2021:** Identification of leading markets with robust sales figures.
+➖ **Top 5 Countries in 2021:** Identification of leading markets with robust sales figures.
 
-➖**Top and Bottom 5 Products:** Focus on both high-performing and underperforming products for strategic adjustments.
+➖ **Top and Bottom 5 Products:** Focus on both high-performing and underperforming products for strategic adjustments.
 
-➖**Division Level Report:** Impressive growth in the PC division, with substantial revenue increases.
+➖ **Division Level Report:** Impressive growth in the PC division, with substantial revenue increases.
 
-➖**Profit and Loss Reports:** Detailed assessment of financial health across various dimensions.
+➖ **Profit and Loss Reports:** Detailed assessment of financial health across various dimensions.
 
-➖**Profit and Loss Reports by Markets:** Insights into profitability across different regions, informing future strategies.
+➖ **Profit and Loss Reports by Markets:** Insights into profitability across different regions, informing future strategies.
 
-➖**Gross Margin % by Quarter:** Understanding of regional performance changes, aiding in decision-making.
+➖ **Gross Margin % by Quarter:** Understanding of regional performance changes, aiding in decision-making.
 
 ---
 
