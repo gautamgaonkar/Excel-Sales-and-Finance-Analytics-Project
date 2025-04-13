@@ -41,22 +41,22 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 - Top performers include:  
   - `AQ Electron 4 3600 Desktop Processor`  
 
-#### 🧾 Division Sales Report
+#### 🧾 Division Sales Report <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/Division%20level%20report.pdf">Dataset</a>
 | Division                | 2020 Revenue | 2021 Revenue | % Growth |
 |-------------------------|--------------|--------------|----------|
 | PCs                     | $40.1M       | $165.8M      | +313.5%  |
 | Accessories & Peripherals | $105.2M     | $338.4M      | +221.7%  |
 | Networking & Storage    | $51.4M       | $94.7M       | +184.4%  |
 
-#### 📦 Top & Bottom 5 Sold Products (by Quantity)
+#### 📦 Top & Bottom 5 Sold Products (by Quantity) <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/Top%20and%20bottom%20products%20-%20QTY.pdf">Dataset</a>
 - **Top**: `AQ Master Wired x1 Ms` led the rankings.
 - **Bottom**: Identified underperformers for future review.
 
-#### 🆕 New Products in 2021
+#### 🆕 New Products in 2021 <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/New%20products%20-%202021.pdf">Dataset</a>
 - 16 new products added.
 - Highlight: `AQ Qwerty` was a standout performer.
 
-#### 🌍 Top 5 Sales Countries in 2021
+#### 🌍 Top 5 Sales Countries in 2021 <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/Top%205%20countries.pdf">Dataset</a>
 - **India** led with **$161.3M** in sales.
 - Other top countries: USA, South Korea, UK, and Canada
 
