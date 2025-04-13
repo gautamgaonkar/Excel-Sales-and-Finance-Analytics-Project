@@ -1,2 +1,5 @@
 # Excel-Sales-and-Finance-Analytics-Project
-This comprehensive Excel report provides a detailed analysis of AtliQ-Hardwares' financial performance and evolving sales trends.
+
+## 📌 Project Overview
+
+This project delivers interactive Business Intelligence dashboards focused on Sales and Financial Analytics for **Atliq Hardware**, a company that sells a wide array of hardware products including PCs, printers, and accessories. The insights derived from these reports are tailored to support strategic decision-making across the organization.
