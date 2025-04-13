@@ -40,7 +40,6 @@ To develop an interactive Business Intelligence dashboard — **Sales and Financ
 #### 🔝 Top 10 Products with Sales Increase
 - Top performers include:  
   - `AQ Electron 4 3600 Desktop Processor`  
-  - `AQ Pen Drive DRC`
 
 #### 🧾 Division Sales Report
 | Division                | 2020 Revenue | 2021 Revenue | % Growth |
