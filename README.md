@@ -100,6 +100,7 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 
 - 🚀 **Customer Sales** grew significantly in 2021
 - 🔝 **Top 10 Products** showed consistent year-over-year performance
+- 🎯 **Market Performance vs. Target** showed insights into market performance relative to sales goals
 - 🆕 **New Product Launches** had successful market entries
 - 🌍 **Top Markets** identified for growth focus
 - 📉 **Bottom Performers** revealed for optimization
@@ -108,18 +109,9 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 
 ---
 
-## 📎 Technologies Used
+## 📎 Tool Used
 
 - **Excel**
----
-
-## 📦 Deliverables
-
-- Sales Dashboard (.pbix)
-- Financial Dashboard (.pbix)
-- Data Cleaning Scripts (Python/SQL)
-- README Documentation
-
 ---
 
 ## 🧠 Conclusion
