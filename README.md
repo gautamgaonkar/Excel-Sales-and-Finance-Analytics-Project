@@ -92,7 +92,7 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 - **Lower Margin Market**: Germany
 
 #### 📍 Quarterly Gross Margin % by Location
-- Regional profitability insights to guide strategy
+- Variations in profit margins by region, aiding in performance assessments and strategic decisions
 
 ---
 
