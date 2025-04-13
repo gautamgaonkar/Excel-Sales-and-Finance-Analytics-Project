@@ -80,20 +80,20 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 
 ### 📊 Key Financial Reports & Insights
 
-#### 📈 Customer Net Sales Performance
+#### 📈 Customer Net Sales Performance <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/Customer%20net%20sales%20performance.pdf">Dataset</a>
 - Revenue grew from **$87.5M (2019)** to **$598.9M (2021)** - a **304.5%** increase
 
-#### 🎯 Market vs. Sales Targets
+#### 🎯 Market vs. Sales Targets <a href="https://github.com/gautamgaonkar/Excel-Sales-and-Finance-Analytics-Project/blob/main/Market%20vs%20Target%20Performance%20Report.pdf">Dataset</a>
 - Some markets **exceeded** goals while others **underperformed**
 
-#### 📆 Yearly P&L Report
+#### 📆 Yearly P&L Report 
 - Net sales increased by **204.5%** over 3 years
 - Strong gross margins maintained with efficient cost controls
 
-#### 📊 Quarterly P&L Comparison
+#### 📊 Quarterly P&L Comparison 
 - 2021 saw significant growth with stable profit margins
 
-#### 🌐 Market-Specific P&L Report
+#### 🌐 Market-Specific P&L Report 
 - **High Margin Markets**: Japan, New Zealand  
 - **Lower Margin Market**: Germany
 
