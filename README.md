@@ -57,7 +57,7 @@ To develop an interactive Business Intelligence dashboard — **Sales and Financ
 - Highlight: `AQ Qwerty` was a standout performer.
 
 #### 🌍 Top 5 Sales Countries in 2021
-- **India** led with **$161.3M**
+- **India** led with **$161.3M** in sales.
 - Other top countries: USA, South Korea, UK, and Canada
 
 ---
