@@ -21,7 +21,7 @@ Products are distributed through intermediaries like **Croma**, **Best Buy**, an
 
 ## ❗ Problem Statement
 
-To develop an interactive Business Intelligence dashboard — **Sales and Finance Analytics Report** — to uncover actionable insights and support strategic planning at Atliq Hardware.
+To develop an interactive Business Intelligence dashboard - **Sales and Finance Analytics Report** - to uncover actionable insights and support strategic planning at Atliq Hardware.
 
 ---
 
@@ -75,7 +75,7 @@ To develop an interactive Business Intelligence dashboard — **Sales and Financ
 ### 📊 Key Financial Reports & Insights
 
 #### 📈 Customer Net Sales Performance
-- Revenue grew from **$87.5M (2019)** to **$598.9M (2021)** — a **304.5%** increase
+- Revenue grew from **$87.5M (2019)** to **$598.9M (2021)** - a **304.5%** increase
 
 #### 🎯 Market vs. Sales Targets
 - Some markets **exceeded** goals while others **underperformed**
