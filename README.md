@@ -124,5 +124,5 @@ To develop an interactive Business Intelligence dashboard - **Sales and Finance 
 
 ## 🧠 Conclusion
 
-This report provides actionable insights into **Atliq Hardware's** sales and financial performance from multiple angles — empowering stakeholders with the information needed to craft strategic, data-driven decisions.
+This report provides actionable insights into **Atliq Hardware's** sales and financial performance from multiple angles - empowering stakeholders with the information needed to craft strategic, data-driven decisions.
 
